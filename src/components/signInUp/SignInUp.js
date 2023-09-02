@@ -101,11 +101,11 @@ export const SignInUp = () => {
                         <input value={stateFirstName} type="text"
                                onChange={handleFirstNameChange}
                                placeholder="First Name *"
-                               pattern="[a-zA-Z]{3,}"
+                               pattern="[a-zA-Zа-яА-Я]{3,}"
                                required/>
                         <input value={stateLastName} type="text"
                                onChange={handleLastNameChange}
-                               pattern="[a-zA-Z]{3,}"
+                               pattern="[a-zA-Zа-яА-Я]{3,}"
                                placeholder="Last Name *"
                                required/>
                     </div>
