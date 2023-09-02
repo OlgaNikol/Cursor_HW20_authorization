@@ -1,25 +1,33 @@
-import logo from './logo.svg';
 import './App.css';
+import {createBrowserRouter, Navigate, RouterProvider} from "react-router-dom";
+
+import SignInUpPage from "./pages/sign-in-up";
+
+const NotFound = () => {
+    return (
+        <h1>The Page Not Found</h1>
+    )
+}
+
+const router = createBrowserRouter([
+    {
+        index: '/',
+        element: <Navigate to='signInUp/in' />
+    },
+    {
+        path: 'signInUp/:type',
+        element: <SignInUpPage/>
+    },
+    {
+        path: '*',
+        element: <NotFound/>
+    }
+]);
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <RouterProvider router={router}/>
+    );
 }
 
 export default App;
