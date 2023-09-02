@@ -11,11 +11,11 @@ const NotFound = () => {
 
 const router = createBrowserRouter([
     {
-        index: '/',
-        element: <Navigate to='signInUp/in' />
+        path: '/Cursor_HW20_authorization/',
+        element: <Navigate to='/Cursor_HW20_authorization/signInUp/in' />
     },
     {
-        path: 'signInUp/:type',
+        path: '/Cursor_HW20_authorization/signInUp/:type',
         element: <SignInUpPage/>
     },
     {

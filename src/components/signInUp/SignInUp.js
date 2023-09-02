@@ -143,13 +143,13 @@ export const SignInUp = () => {
                 { (type === 'in') &&
                     <div className="wrapper-links">
                         <p>Forgot password?</p>
-                        <Link to='/signInUp/up'>Don't have an account? Sign up</Link>
+                        <Link to='/Cursor_HW20_authorization/signInUp/up'>Don't have an account? Sign up</Link>
                     </div>
                 }
                 { (type === 'up') &&
                     <div className="wrapper-links">
                         <p></p>
-                        <Link to='/signInUp/in'>Already have an account? Sign in</Link>
+                        <Link to='/Cursor_HW20_authorization/signInUp/in'>Already have an account? Sign in</Link>
                     </div>
                 }
             </form>
