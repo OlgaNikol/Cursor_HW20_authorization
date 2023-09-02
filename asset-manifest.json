@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cursor_HW20_authorization/static/css/main.14ddb82c.css",
-    "main.js": "/Cursor_HW20_authorization/static/js/main.bad59e64.js",
+    "main.css": "/Cursor_HW20_authorization/static/css/main.ddcf6c88.css",
+    "main.js": "/Cursor_HW20_authorization/static/js/main.7294d930.js",
     "static/media/padlock_512.png": "/Cursor_HW20_authorization/static/media/padlock_512.87f30226ed97d38fc0ef.png",
     "static/media/copyright.png": "/Cursor_HW20_authorization/static/media/copyright.4fce68f3c06356c7eb50.png",
     "index.html": "/Cursor_HW20_authorization/index.html",
-    "main.14ddb82c.css.map": "/Cursor_HW20_authorization/static/css/main.14ddb82c.css.map",
-    "main.bad59e64.js.map": "/Cursor_HW20_authorization/static/js/main.bad59e64.js.map"
+    "main.ddcf6c88.css.map": "/Cursor_HW20_authorization/static/css/main.ddcf6c88.css.map",
+    "main.7294d930.js.map": "/Cursor_HW20_authorization/static/js/main.7294d930.js.map"
   },
   "entrypoints": [
-    "static/css/main.14ddb82c.css",
-    "static/js/main.bad59e64.js"
+    "static/css/main.ddcf6c88.css",
+    "static/js/main.7294d930.js"
   ]
 }
