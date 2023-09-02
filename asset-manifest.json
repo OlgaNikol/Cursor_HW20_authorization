@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cursor_HW20_authorization/static/css/main.ddcf6c88.css",
-    "main.js": "/Cursor_HW20_authorization/static/js/main.7294d930.js",
+    "main.js": "/Cursor_HW20_authorization/static/js/main.8790eb64.js",
     "static/media/padlock_512.png": "/Cursor_HW20_authorization/static/media/padlock_512.87f30226ed97d38fc0ef.png",
     "static/media/copyright.png": "/Cursor_HW20_authorization/static/media/copyright.4fce68f3c06356c7eb50.png",
     "index.html": "/Cursor_HW20_authorization/index.html",
     "main.ddcf6c88.css.map": "/Cursor_HW20_authorization/static/css/main.ddcf6c88.css.map",
-    "main.7294d930.js.map": "/Cursor_HW20_authorization/static/js/main.7294d930.js.map"
+    "main.8790eb64.js.map": "/Cursor_HW20_authorization/static/js/main.8790eb64.js.map"
   },
   "entrypoints": [
     "static/css/main.ddcf6c88.css",
-    "static/js/main.7294d930.js"
+    "static/js/main.8790eb64.js"
   ]
 }
