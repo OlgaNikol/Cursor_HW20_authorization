@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Cursor_HW20_authorization/static/css/main.ddcf6c88.css",
-    "main.js": "/Cursor_HW20_authorization/static/js/main.8790eb64.js",
+    "main.css": "/Cursor_HW20_authorization/static/css/main.bae66c69.css",
+    "main.js": "/Cursor_HW20_authorization/static/js/main.87d660d4.js",
     "static/media/padlock_512.png": "/Cursor_HW20_authorization/static/media/padlock_512.87f30226ed97d38fc0ef.png",
     "static/media/copyright.png": "/Cursor_HW20_authorization/static/media/copyright.4fce68f3c06356c7eb50.png",
+    "static/media/hide.png": "/Cursor_HW20_authorization/static/media/hide.b66451102f5c2296ea65.png",
+    "static/media/visible.png": "/Cursor_HW20_authorization/static/media/visible.a91f0afaf8329c3dd93a.png",
     "index.html": "/Cursor_HW20_authorization/index.html",
-    "main.ddcf6c88.css.map": "/Cursor_HW20_authorization/static/css/main.ddcf6c88.css.map",
-    "main.8790eb64.js.map": "/Cursor_HW20_authorization/static/js/main.8790eb64.js.map"
+    "main.bae66c69.css.map": "/Cursor_HW20_authorization/static/css/main.bae66c69.css.map",
+    "main.87d660d4.js.map": "/Cursor_HW20_authorization/static/js/main.87d660d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddcf6c88.css",
-    "static/js/main.8790eb64.js"
+    "static/css/main.bae66c69.css",
+    "static/js/main.87d660d4.js"
   ]
 }
